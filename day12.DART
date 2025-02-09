@@ -29,7 +29,7 @@ example1
   string str2=''world'';
   string res=str1+str2;
 
-  print("the concatented string:${res}");
+  print("the concatented string:${res}";
 }
  example
    void main() {
